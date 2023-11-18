@@ -75,9 +75,9 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """ 
-*нєу* {} , 🥀
+*нєу* {} , dear user 🥀
 
-*๏ ᴛʜɪs ɪs {} !
+*the most powerfull bot ever  {} !
 
 ➻ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ғᴏʀ ᴍᴀɴᴀɢɪɴɢ ʏᴏᴜʀ ɢʀᴏᴜᴘs ᴡɪᴛʜ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
 
@@ -1056,11 +1056,11 @@ def main():
                 f"@{SUPPORT_CHAT}",
                 photo=f"{START_IMG}",
                 caption=f"""
-✨ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ.
+✨ㅤ{BOT_NAME} lucifer#managment bot
 ━━━━━━━━━━━━━
-**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ [ᴧŁꪮɳᴇ](https://t.me/ALONE_WAS_BOT)**
+**ᴍᴀᴅᴇ ᴡɪᴛʜ ❤️ ʙʏ [made with @darknightsoul13]()**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{y()}`
-**ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ:** `{telever}`
+**badmundaspammusic@eduram.cc ᴠᴇʀsɪᴏɴ:** `{telever}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ:** `{tlhver}`
 **ᴩʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ:** `{pyrover}`
 ━━━━━━━━━━━━━
